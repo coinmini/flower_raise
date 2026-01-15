@@ -1,0 +1,7 @@
+{
+  "name": "GreenSpace - 智能绿植百科",
+  "description": "An intelligent indoor plant encyclopedia and care assistant powered by Gemini. Features detailed plant guides, care tips, and an AI Plant Doctor for diagnosis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
